@@ -2,6 +2,7 @@ import React from 'react'
 import Card from './components/Card'
 import { Route, Router, Routes } from 'react-router-dom'
 import Details from './components/Details'
+import Timer from './components/Timer'
 
 const App = () => {
   return (

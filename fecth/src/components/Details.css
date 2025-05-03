@@ -1,0 +1,20 @@
+.Parents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    margin: auto;
+    padding: 1rem;
+}
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+}
